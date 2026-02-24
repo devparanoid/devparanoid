@@ -1,6 +1,6 @@
 <div align="center">
   <h1>hi im paranoid</h1>
-  <p>Discord API'si ve botlarıyla uğraşmayı seviyorum.</p>
+  <p>Discord API'si ve botlarıyla uğraşmayı seviyorum. Servis kurulum ve ücretli projeler için discord üzerinden ulaşabilirsiniz</p>
 
   <a href="https://discord.com/users/323805972101464065" target="_blank">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
