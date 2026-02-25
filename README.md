@@ -8,6 +8,7 @@
   <a href="https://github.com/devparanoid" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  [![](https://visitcountpro.netlify.app/api?id=devparanoid&pretty=true)](https://visitcount.itsvg.in)
 </div>
 
 <br>
@@ -85,4 +86,4 @@ const me = new Paranoid();
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
 
-[![](https://visitcountpro.netlify.app/api?id=devparanoid&pretty=true)](https://visitcount.itsvg.in)
+
