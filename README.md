@@ -11,7 +11,8 @@
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
-
+<p align="center">
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=devparanoid&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
 <br>
 
 ```javascript
@@ -85,6 +86,7 @@ const me = new Paranoid();
 
 <p align="center">
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
+
 </p>
 
 
