@@ -5,10 +5,8 @@
   <a href="https://discord.com/users/323805972101464065" target="_blank">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://github.com/devparanoid" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a [![](https://visitcountpro.netlify.app/api?id=devparanoid&pretty=true)](https://visitcount.itsvg.in)>
   </a>
-  [![](https://visitcountpro.netlify.app/api?id=devparanoid&pretty=true)](https://visitcount.itsvg.in)
 </div>
 
 <br>
