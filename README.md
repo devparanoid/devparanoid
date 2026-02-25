@@ -75,3 +75,8 @@ const me = new Paranoid();
 ![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
+
+
+![](https://github-readme-stats.vercel.app/api?username=devparanoid&theme=holi&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=devparanoid&theme=holi&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devparanoid&theme=holi&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
