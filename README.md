@@ -75,3 +75,7 @@ const me = new Paranoid();
 ![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
+
+
+<hr>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/devparanoid/github-readme-stats)
