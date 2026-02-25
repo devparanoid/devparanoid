@@ -80,3 +80,9 @@ const me = new Paranoid();
 ![](https://github-readme-stats.vercel.app/api?username=devparanoid&theme=holi&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=devparanoid&theme=holi&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devparanoid&theme=holi&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<p align="center">
+<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+[![](https://visitcountpro.netlify.app/api?id=VishwaGauravIn&pretty=true)](https://visitcount.itsvg.in)
