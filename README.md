@@ -26,18 +26,6 @@ class Paranoid {
         this.discord.tag = "cinayetlerim";
         this.location = "Istanbul";
     }
-
-    getDailyRoutine() {
-        if (isAkisi.karmasikMi()) {
-            while (sistem.verimlilik < maksimumPerformans) {
-                prompt.optimizeEt();
-                sistem.verimlilik++;
-            }
-        }
-        return "Kodla, optimize et, tekrarla.";
-    }
-}
-
 const me = new Paranoid();
 ```
 
